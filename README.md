@@ -1,12 +1,10 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+QMine efficiently mines for all possible patterns in a given trace file and stores in a dictionary as a CSV file. Further postprocessing on the produced dictionary can be performed for a quantitative summary.
+
+Version : 1.0
 
 ### How do I get set up? ###
 
@@ -25,5 +23,5 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+Please raise an issue if noticed and we would get back to you asap.
+
